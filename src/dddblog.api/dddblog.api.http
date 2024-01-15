@@ -1,0 +1,6 @@
+@dddblog.api_HostAddress = http://localhost:5212
+
+GET {{dddblog.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
